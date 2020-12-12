@@ -1,4 +1,4 @@
-package me.erudev.refactor.ch01;
+package me.erudev.refactor.ch01.v1;
 
 import lombok.Getter;
 
